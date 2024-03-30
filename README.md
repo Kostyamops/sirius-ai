@@ -62,6 +62,7 @@
 
 **F** - F1 Score - гармоническое среднее Precision и Recall, используется как метрика, объединяющая Precision и Recall в одно число.
 
+[Наша модель для суммаризации](https://huggingface.co/spaces/Gegerout/sirius_summarization)
 
 --- 
 
